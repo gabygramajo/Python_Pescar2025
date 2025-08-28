@@ -1,0 +1,26 @@
+{
+    "company": "Tech Solutions",
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "role": "Software Engineer",
+            "salary": 5500,
+            "remote": true
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "role": "Data Analyst",
+            "salary": 4800,
+            "remote": false
+        },
+        {
+            "id": 3,
+            "name": "Carol Williams",
+            "role": "Project Manager",
+            "salary": 6200,
+            "remote": true
+        }
+    ]
+}
